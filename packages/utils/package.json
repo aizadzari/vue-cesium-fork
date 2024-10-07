@@ -1,0 +1,22 @@
+{
+  "name": "@vue-cesium/utils",
+  "version": "3.0.2-beta.12",
+  "description": "VueCesium utils.",
+  "main": "index.js",
+  "module": "index.js",
+  "unpkg": "index.js",
+  "jsdelivr": "index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zouyaoji/vue-cesium/issues"
+  },
+  "homepage": "https://zouyaoji.top/vue-cesium",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:zouyaoji/vue-cesium.git"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.0"
+  }
+}
